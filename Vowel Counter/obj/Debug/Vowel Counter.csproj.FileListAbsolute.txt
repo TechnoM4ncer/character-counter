@@ -1,0 +1,7 @@
+C:\Users\TechnoM4ncer\source\repos\Vowel Counter\Vowel Counter\obj\Debug\Vowel Counter.csprojResolveAssemblyReference.cache
+C:\Users\TechnoM4ncer\source\repos\Vowel Counter\Vowel Counter\obj\Debug\Vowel Counter.csproj.CoreCompileInputs.cache
+C:\Users\TechnoM4ncer\source\repos\Vowel Counter\Vowel Counter\bin\Debug\Vowel Counter.exe.config
+C:\Users\TechnoM4ncer\source\repos\Vowel Counter\Vowel Counter\bin\Debug\Vowel Counter.exe
+C:\Users\TechnoM4ncer\source\repos\Vowel Counter\Vowel Counter\bin\Debug\Vowel Counter.pdb
+C:\Users\TechnoM4ncer\source\repos\Vowel Counter\Vowel Counter\obj\Debug\Vowel Counter.exe
+C:\Users\TechnoM4ncer\source\repos\Vowel Counter\Vowel Counter\obj\Debug\Vowel Counter.pdb
